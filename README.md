@@ -1,5 +1,7 @@
 # supermarket-sales-analysis
 # Supermarket Sales Analysis 🛒📊
+## 📁 Dataset
+The dataset used is available in this repository: [supermarket_sales.csv](./supermarket_sales.csv)
 
 This project is a data analysis of supermarket sales using Python and Jupyter Notebook.
 
